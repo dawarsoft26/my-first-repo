@@ -1,0 +1,9 @@
+i
+
+  ======================= Guessing Number Game==============
+
+This is the game call as guessing number.
+Here system will choose one random number inbetween 1 to 10. and user has to guess the number.
+
+
+===================================Thank you=====================
